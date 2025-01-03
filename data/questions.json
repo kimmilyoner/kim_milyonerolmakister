@@ -1,0 +1,134 @@
+[
+    {
+      "question": "Türkiye'nin başkenti neresidir?",
+      "options": ["İstanbul", "Ankara", "İzmir", "Bursa"],
+      "answer": "Ankara"
+    },
+    {
+      "question": "Dünya'nın en büyük okyanusu hangisidir?",
+      "options": ["Atlantik", "Hint", "Arktik", "Pasifik"],
+      "answer": "Pasifik"
+    },
+    {
+      "question": "Einstein'ın ünlü denklemi nedir?",
+      "options": ["E=mc^2", "F=ma", "V=IR", "P=mv^2"],
+      "answer": "E=mc^2"
+    },
+    {
+      "question": "Ay'ın yörüngesindeki dönme süresi ne kadardır?",
+      "options": ["29,5 gün", "30 gün", "27,3 gün", "28 gün"],
+      "answer": "27,3 gün"
+    },
+    {
+      "question": "Dünyadaki en uzun nehir hangisidir?",
+      "options": ["Amazon", "Nil", "Yangtze", "Mississippi"],
+      "answer": "Amazon"
+    },
+    {
+      "question": "Dünya'daki en yüksek dağ hangisidir?",
+      "options": ["K2", "Everest", "Kangchenjunga", "Makalu"],
+      "answer": "Everest"
+    },
+    {
+      "question": "Hangi elementin kimyasal sembolü 'Au'dur?",
+      "options": ["Gümüş", "Altın", "Bakır", "Demir"],
+      "answer": "Altın"
+    },
+    {
+      "question": "İlk modern olimpiyatlar hangi yıl düzenlenmiştir?",
+      "options": ["1896", "1900", "1912", "1924"],
+      "answer": "1896"
+    },
+    {
+      "question": "Dünyadaki en büyük çöl hangisidir?",
+      "options": ["Sahara", "Karakum", "Gobi", "Antarktika"],
+      "answer": "Antarktika"
+    },
+    {
+      "question": "En yakın yıldız hangi yıldızdır?",
+      "options": ["Proxima Centauri", "Sirius", "Alpha Centauri A", "Betelgeuse"],
+      "answer": "Proxima Centauri"
+    },
+        {
+          "question": "‘Taumatawhakatangihangakoauauotamateaturipukakapikimaungahoronukupokaiwhenuakitanatahu Tepesi’ nerededir?",
+          "options": ["Hawaii", "Yeni Zellanda", "Galler", "Hindistan"],
+          "answer": "Yeni Zellanda"
+        },
+        {
+          "question": "5 yıl önce aralarındaki yaş farkı 10 olan iki kişinin 20 yıl sonra aralarındaki yaş farkı kaç olur?",
+          "options": ["10", "20", "30", "35"],
+          "answer": "10"
+        },
+        {
+          "question": "Şu an sizinle hangisi arasındaki kütle çekimi kuvvetinin büyüklüğü daha fazladır?",
+          "options": ["Merkür", "Dünya", "Ay", "Kenan İmirzalıoğlu"],
+          "answer": "Dünya"
+        },
+        {
+          "question": "Hangi filmin ilk 10 dakika 38 saniyelik süresinde hiç konuşma yoktur?",
+          "options": ["İyi, Kötü ve Çirkin", "Er Ryan'ı Kurtarmak", "Bir Konuşabilse...", "Kış Uykusu"],
+          "answer": "İyi, Kötü ve Çirkin"
+        },
+        {
+          "question": "İstanbul, Sinop ve Hatay sırasıyla hangi yarı küredeki illerdir?",
+          "options": ["Kuzey - Kuzey - Güney", "Kuzey - Güney - Güney", "Güney - Güney - Kuzey", "Kuzey - Kuzey - Kuzey"],
+          "answer": "Kuzey - Kuzey - Kuzey"
+        },
+        {
+          "question": "1924 Anayasası’nda ve 1961 Anayasası’nda Türkiye’nin başkentinin hangisi olduğu yazar?",
+          "options": ["İstanbul", "Ankara", "Erzurum", "Sivas"],
+          "answer": "Ankara"
+        },
+        {
+          "question": "1980’lere kadar hangi ülkede yetim, gayrimeşru doğmuş, ebeveyni alkolik, ayrılmış veya fakir olan çocuklar devlet tarafından bazen açık artırmada satılarak çiftliklerde zorla çalıştırılmıştır?",
+          "options": ["Danimarka", "Norveç", "İsviçre", "Belçika"],
+          "answer": "İsviçre"
+        },
+        {
+          "question": "ABD başkanlarının resmi olarak besledikleri hayvanları arasında aşağıdakilerden hangisi yoktur?",
+          "options": ["Muhabbet Kuşu", "Zürafa", "Sırtlan", "Su Aygırı"],
+          "answer": "Sırtlan"
+        },
+        {
+          "question": "Filmlerde ‘yarısı şimdi, diğer yarısı iş bittikten sonra’ sözü genellikle hangisi için söylenir?",
+          "options": ["Onur Belgesi", "Dükkan Tapusu", "Elma Şekeri", "Para"],
+          "answer": "Para"
+        },
+        {
+            "question": "Bir şeyi ‘cephe’den gördüğünüzü söylüyorsanız nereden bakıyorsunuzdur?",
+            "options": ["Karşı", "Yan", "Arka", "Üst"],
+            "answer": "Karşı"
+          },
+          {
+            "question": "Hangi ünlü çift 2017’de doğan kızlarının ismini Mevlana Celaleddin Rumi’den esinlenerek ‘Rumi’ koymuştur?",
+            "options": ["Beyonce ve Jay Z", "Victoria ve David Beckham", "Meghan Markle ve Prens Harry", "Kim Kardashian ve Kanye West"],
+            "answer": "Beyonce ve Jay Z"
+          },
+          {
+            "question": "Hangi canlı, günde en az 250 kez gerçekleşen ve her biri yaklaşık 1 dakika süren uykuya dalar?",
+            "options": ["Kirpi", "Arı", "Karınca", "Çekirge"],
+            "answer": "Karınca"
+          },
+          {
+            "question": "Hangi hayvanın bazı türleri ‘popolarından’ nefes alabilir?",
+            "options": ["Kaplumbağa", "Bukalemun", "Yarasa", "Kurbağa"],
+            "answer": "Kaplumbağa"
+          },
+          {
+            "question": "17. ve 18. yüzyıllarda başta Kanada olmak üzere Fransız kolonisinde hangisi para birimi olarak kullanılmıştır?",
+            "options": ["Posta Pulu", "Bitki Tohumu", "İskambil Kağıdı", "Cam Boncuk"],
+            "answer": "İskambil Kağıdı"
+          },
+          {
+            "question": "Günümüzde popüler bir söz olarak sıklıkla kullanılan ‘şehir efsanesi’ sözü, eski kuşaklar tarafından nasıl söylenir?",
+            "options": ["Teamül", "Tahayyül", "Tevatür", "Tezahür"],
+            "answer": "Tevatür"
+          },
+          {
+            "question": "Türkçe’deki kelimeler en çok hangi harfle başlar?",
+            "options": ["K Harfi", "M Harfi", "R Harfi", "S Harfi"],
+            "answer": "K Harfi"
+          }
+
+  ]
+  

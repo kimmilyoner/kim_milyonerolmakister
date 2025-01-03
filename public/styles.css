@@ -1,0 +1,43 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f9f9f9;
+    color: #333;
+  }
+  
+  #app {
+    margin: 50px auto;
+    max-width: 600px;
+  }
+  
+  button {
+    background-color: #007BFF;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    margin-top: 20px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #0056b3;
+  }
+  #score, #timer {
+    font-size: 1.2em;
+    margin: 10px 0;
+  }
+  
+  #timer {
+    color: #e74c3c;
+    font-weight: bold;
+  }
+  @media screen and (max-width: 600px) {
+    #app {
+      font-size: 14px;
+    }
+    #options button {
+      width: 100%;
+      margin: 5px 0;
+    }
+  }
+  

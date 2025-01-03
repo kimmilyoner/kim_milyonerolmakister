@@ -2,7 +2,7 @@ const express = require('express');
 const fs = require('fs');
 const app = express();
 const PORT = 3000;
-app.use('/sounds', express.static(path.join(__dirname, 'public/sounds')));
+
 
 // Static dosyaları sunma
 app.use(express.static('public'));
